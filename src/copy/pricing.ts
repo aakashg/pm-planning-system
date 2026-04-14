@@ -4,8 +4,8 @@
  */
 
 export const pricingCopy = {
-  headline: "Plans and Pricing",
-  subheadline: "Choose the plan that's right for you",
+  headline: "Simple, Transparent Pricing",
+  subheadline: "No hidden fees. No surprises. Switch or cancel anytime.",
 
   cta: {
     primary: "Start Free Trial",
