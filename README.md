@@ -2,7 +2,6 @@
 
 A structured planning system for product teams shipping in the AI era. Specs live next to code. Claude Code reads them automatically. Everything is version-controlled.
 
-Built by [Aakash Gupta](https://www.news.aakashg.com) from the newsletter [Product Growth](https://www.news.aakashg.com).
 
 ## What This Is
 
